@@ -1,6 +1,6 @@
 ### Hi, I'm Yinghuai Fu
 
-I like way that does **one job cleanly** — less ceremony, more shipping.
+I like tool that does **one job cleanly** — less ceremony, more shipping.
 
 **Building**
 - Tools that remove friction from everyday work (docs, workflows, small utilities)
