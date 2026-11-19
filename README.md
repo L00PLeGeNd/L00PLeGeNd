@@ -1,3 +1,3 @@
 Cybersecurity · AI systems.
 
-Working on agent tooling and MCP boundary controls.
+Agent tooling, MCP boundaries, and occasional work in the Java / Spring ecosystem.
